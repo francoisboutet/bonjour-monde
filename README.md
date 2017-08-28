@@ -1,2 +1,3 @@
 # bonjour-monde
-Intro à Git
+Introduction GitHub.
+Un peu de texte pour voir.
